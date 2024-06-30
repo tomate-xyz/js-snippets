@@ -1,2 +1,4 @@
-# js-snippets
+
+# JavaScript Snippets
+
 Random JavaScript Code Snipptes
